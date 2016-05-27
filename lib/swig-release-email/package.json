@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-release-email",
   "description": "Sends an email to the organization, informing of a new module version.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -26,6 +26,11 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Rory Haddon",
+      "email": "rhaddon@gilt.com",
+      "url": "https://github.com/roryh/"
     }
   ],
   "licenses": [
