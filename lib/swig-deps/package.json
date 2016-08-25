@@ -1,6 +1,6 @@
 {
   "name": "@gilt-tech/swig-deps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A swig task to check for the latest version of npm dependencies.",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
