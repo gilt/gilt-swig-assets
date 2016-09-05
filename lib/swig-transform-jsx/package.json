@@ -7,7 +7,7 @@
     "gulp",
     "swig",
     "package",
-    "mangement"
+    "management"
   ],
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "author": {
     "name": "Gilt Groupe",
     "email": "info@gilt.com",
-    "url": "http://gilt.com/"
+    "url": "https://gilt.com/"
   },
   "contributors": [
     {
@@ -61,8 +61,5 @@
     "underscore": "*"
   },
   "devDependencies": {},
-  "main": "index.js",
-  "gilt": {
-    "scoped": true
-  }
+  "main": "index.js"
 }
