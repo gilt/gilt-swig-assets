@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-merge-css",
   "description": "Merges CSS and LESS files for the Gilt front-end asset pipeline.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -26,6 +26,11 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
     }
   ],
   "licenses": [
@@ -41,9 +46,9 @@
     "globby": "^1.2.0",
     "gulp-less": "^3.0.2",
     "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
     "underscore": "*"
   },
-  "devDependencies": {},
   "main": "index.js",
   "gilt": {
     "scoped": true
