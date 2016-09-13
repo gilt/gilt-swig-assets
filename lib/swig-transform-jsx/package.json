@@ -1,0 +1,65 @@
+{
+  "name": "@gilt-tech/swig-transform-jsx",
+  "description": "Transforms JSX into Javascript.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gilt/gilt-swig-assets",
+  "keywords": [
+    "gulp",
+    "swig",
+    "package",
+    "management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilt/gilt-swig-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gilt/gilt-swig-assets/issues"
+  },
+  "author": {
+    "name": "Gilt Groupe",
+    "email": "info@gilt.com",
+    "url": "https://gilt.com/"
+  },
+  "contributors": [
+    {
+      "name": "Nick Rogers",
+      "email": "nrogers@gilt.com",
+      "url": "https://github.com/njprrogers/"
+    },
+    {
+      "name": "Rory Haddon",
+      "email": "rhaddon@gilt.com",
+      "url": "https://github.com/RoryH/"
+    },
+    {
+      "name": "Aidan Hollinshead",
+      "email": "ahollinshead@gilt.com",
+      "url": "https://github.com/ahollinshead/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gilt/gilt-swig-assets/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.12.x"
+  },
+  "dependencies": {
+    "babel-core": "6.x.x",
+    "gulp-babel": "6.x.x",
+    "gulp-tap": "0.x.x",
+    "babel-plugin-transform-react-jsx": "6.x.x",
+    "glob": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {},
+  "main": "index.js"
+}
