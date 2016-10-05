@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-lint",
   "description": "Lints Gilt front-end assets.",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -26,6 +26,11 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
     }
   ],
   "licenses": [
@@ -35,11 +40,18 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 4.x.x"
   },
   "dependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.7.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0",
     "gulp-add-src": "*",
     "gulp-buffer": "*",
+    "gulp-eslint": "^3.0.1",
     "gulp-handlebars": "*",
     "gulp-insert": "*",
     "gulp-jshint": "^1.9.2",
