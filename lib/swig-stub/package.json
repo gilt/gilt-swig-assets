@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-stub",
   "description": "Creates a new UI Module or Node web app.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -31,6 +31,11 @@
       "name": "Eric Shepherd",
       "email": "eshepherd@gilt.com",
       "url": "https://github.com/arkitrave"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen"
     }
   ],
   "licenses": [
