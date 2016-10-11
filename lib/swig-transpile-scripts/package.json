@@ -1,7 +1,7 @@
 {
-  "name": "@gilt-tech/swig-transform-jsx",
-  "description": "Transforms JSX into Javascript.",
-  "version": "0.1.1",
+  "name": "@gilt-tech/swig-transpile-scripts",
+  "description": "Transpile ES* scripts into ES5.",
+  "version": "1.0.1",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -50,14 +50,16 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 4.x.x"
   },
   "dependencies": {
     "babel-core": "6.x.x",
-    "babel-plugin-transform-react-jsx": "6.x.x",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
     "glob": "*",
     "gulp-babel": "6.x.x",
     "gulp-plumber": "^1.1.0",
+    "gulp-replace": "^0.5.4",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-tap": "0.x.x",
     "underscore": "*"

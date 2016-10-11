@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-bundle",
   "description": "Bundles Gilt javascript assets.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -26,6 +26,11 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
     }
   ],
   "licenses": [
@@ -35,7 +40,7 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 4.x.x"
   },
   "dependencies": {
     "co": "3.x",

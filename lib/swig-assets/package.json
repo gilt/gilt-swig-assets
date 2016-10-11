@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-assets",
   "description": "Deploys Gilt assets.",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -36,6 +36,11 @@
       "name": "Nick Rogers",
       "email": "nrogers@gilt.com",
       "url": "https://github.com/njprrogers/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
     }
   ],
   "licenses": [
@@ -45,7 +50,7 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 4.x.x"
   },
   "dependencies": {
     "async-waterfall": "^0.1.5",
