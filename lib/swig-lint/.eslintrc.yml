@@ -35,6 +35,9 @@ rules:
   space-before-function-paren: 0
   no-bitwise: 0
   no-plusplus: 0
+  strict: 0
+  default-case: 1
+  no-void: 1
 
   # Rules commented out because are currently switched of below
   # (Avoiding duplicate entry warning)
@@ -109,3 +112,13 @@ rules:
   yoda: 0
   dot-notation: 0
   new-cap: 0
+  computed-property-spacing: 0
+  space-unary-ops: 0
+  block-spacing: 0
+  no-spaced-func: 0
+  prefer-spread: 0
+  func-call-spacing: 0
+  semi-spacing: 0
+  array-bracket-spacing: 0
+  lines-around-directive: 0
+  newline-per-chained-call: 0
