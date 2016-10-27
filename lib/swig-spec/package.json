@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-spec",
   "description": "Runs specs (tests, expectations) for UI Modules and web apps.",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -26,6 +26,11 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Rory Haddon",
+      "email": "rhaddon@gilt.com",
+      "url": "https://github.com/RoryH/"
     }
   ],
   "licenses": [
@@ -44,7 +49,7 @@
     "gulp-concat": "*",
     "gulp-file": "*",
     "gulp-jasmine-phantomjs": "git://github.com/gilt/gulp-jasmine-phantomjs.git",
-    "gulp-mocha-phantomjs": "^0.10.0",
+    "gulp-mocha-phantomjs": "^0.12.0",
     "gulp-tap": "*",
     "gulp-util": "*",
     "gulp-wrap": "*",
