@@ -43,11 +43,7 @@
     "node": ">= 0.12.x"
   },
   "dependencies": {
-    "co": "3.x",
-    "co-exec": "*",
     "glob": "*",
-    "globby": "*",
-    "gulp-bless": "3.0.1",
     "gulp-clean-css": "^2.0.0",
     "gulp-filter": "^2.0.2",
     "gulp-handlebars": "^4.0.0",
@@ -59,8 +55,7 @@
     "handlebars": "^1.0.12",
     "merge-stream": "^0.1.7",
     "rimraf": "^2.3.2",
-    "through2": "^0.6.3",
-    "underscore": "*"
+    "through2": "^0.6.3"
   },
   "main": "index.js",
   "gilt": {
