@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-install",
   "description": "Installs and organizes Gilt front-end assets.",
-  "version": "0.1.14",
+  "version": "1.0.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -31,6 +31,11 @@
       "name": "Rory Haddon",
       "email": "rhaddon@gilt.com",
       "url": "https://github.com/roryh/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
     }
   ],
   "licenses": [
@@ -40,7 +45,7 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 6.x"
   },
   "dependencies": {
     "adm-zip": "*",

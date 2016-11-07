@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-spec",
   "description": "Runs specs (tests, expectations) for UI Modules and web apps.",
-  "version": "0.1.12",
+  "version": "1.0.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
@@ -63,6 +63,9 @@
     "underscore": "*"
   },
   "devDependencies": {},
+  "peerDependencies": {
+    "@gilt-tech/swig-transpile-scripts": "^1.0.0"
+  },
   "main": "index.js",
   "gilt": {
     "scoped": true
