@@ -26,6 +26,15 @@
       "name": "Andrew Powell",
       "email": "powella@gilt.com",
       "url": "https://github.com/shellscape/"
+    },
+    {
+      "name": "Federico Giovagnoli",
+      "email": "fgiovagnoli@gilt.com",
+      "url": "https://github.com/Meesayen/"
+    },
+    {
+      "name": "Front End Community Krewe",
+      "email": "feck@gilt.com"
     }
   ],
   "licenses": [
@@ -35,7 +44,7 @@
     }
   ],
   "engines": {
-    "node": ">= 0.12.x"
+    "node": ">= 6.x"
   },
   "dependencies": {
     "co": "3.x",
