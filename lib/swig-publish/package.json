@@ -41,6 +41,7 @@
     "co": "3.x",
     "globby": "*",
     "gulp-util": "^3.0.3",
+    "prompt": "^1.0.0",
     "rimraf": "*",
     "simple-git": "*",
     "thunkify": "*",
