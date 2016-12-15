@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-transpile-scripts",
   "description": "Transpile ES* scripts into ES5.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
