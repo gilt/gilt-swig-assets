@@ -1,7 +1,4 @@
 {
-  "name": "gilt-swig-assets",
-  "version": "1.0.0",
-  "description": "Swig tasks that are associated with Gilt's asset pipeline.",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.0",
@@ -18,13 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/gilt/gilt-swig-assets.git"
   },
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gilt/gilt-swig-assets/issues"
   },
-  "homepage": "https://github.com/gilt/gilt-swig-assets#readme",
-  "gilt": {
-    "scoped": true
-  }
+  "homepage": "https://github.com/gilt/gilt-swig-assets#readme"
 }
