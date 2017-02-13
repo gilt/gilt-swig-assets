@@ -1,7 +1,7 @@
 {
   "name": "@gilt-tech/swig-minify",
   "description": "Minifies Gilt front-end assets.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
     "gulp",
