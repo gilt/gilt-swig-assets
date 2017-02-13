@@ -1,6 +1,6 @@
 {
   "name": "@gilt-tech/swig-merge-css",
-  "description": "Merges CSS and LESS files for the Gilt front-end asset pipeline.",
+  "description": "Merges CSS and LESS files for the Gilt front-end asset pipeline. Adds vendor prefixes for the supported browsers.",
   "version": "1.1.0",
   "homepage": "https://github.com/gilt/gilt-swig-assets",
   "keywords": [
