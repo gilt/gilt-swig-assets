@@ -31,11 +31,6 @@
       "name": "Federico Giovagnoli",
       "email": "fgiovagnoli@gilt.com",
       "url": "https://github.com/Meesayen/"
-    },
-    {
-      "name": "Riccardo Bellingeri",
-      "email": "rbellingeri@gilt.com",
-      "url": "https://github.com/rbelling/"
     }
   ],
   "licenses": [
@@ -48,7 +43,6 @@
     "node": ">= 6.x"
   },
   "dependencies": {
-    "gulp-autoprefixer": "^3.1.1",
     "gulp-less": "^3.0.2",
     "gulp-rename": "^1.2.0",
     "gulp-sourcemaps": "^1.6.0"
