@@ -1,3 +1,6 @@
+## [DEPRECATED REPOSITORY]
+We moved all the works to https://github.com/gilt/swig
+
 # gilt-swig-assets
 Swig tasks that are associated with Gilt's asset pipeline.
 
